@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Artinjo Sprangers
 
 #### Je startniveau:
-Rood/Blauw
+Blauw
 
 #### Je focus:
-Responsive/Surface Plane
+Responsive
  
 </details>
 
@@ -39,8 +39,8 @@ Responsive/Surface Plane
 link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-https://www.vulture.com
-<img src="images/Vultureweb.jpg" width="375px" alt="omschrijving van de pagina">
+https://www.sneakerjagers.nl/nieuws/
+<img src="images/Sneakerjagers.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 https://www.sneakersquad.nl  
