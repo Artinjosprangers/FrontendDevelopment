@@ -78,7 +78,7 @@ https://www.sneakersquad.nl
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het idee kwam goed in me op, hoe ik alles ongeveer op de website wou hebben. De opdrachten gingen ook goed en waren vrij wel goed te doen. Ik zou voor de volgende keer de opdrachten wat beter kunnen toepassen op mijn website zelf, omdat het dan nog fris in mijn hoofd zit.
 
 
 ### Agenda voor meeting
@@ -94,10 +94,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- kleinere navigatie, met minder links.
+- Doorwerken om op schema te komen.
+- Geleerde onderwerpen uit de les, direct toe passen.
 
 </details>
 
@@ -111,17 +110,17 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik merkte dat ik de website responsive probeerde te maken, maar op een telefoon scherm, schoven een aantal afbeeldingen en teksten een beetje verkeerd, waardoor ik ze uit eindelijk op een telefoon scherm
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student 1          | student 2          | student 3    | student 4        |
+| ---                | ---                | ---          | ---              |
+| website responsive | extra mooi houden. | image grid,  | en dan ik dat    |
+| maken.             |                    | goed         | dit wil ik zeker |
+|                    |                    | positioneren | ...              |
 
 
 ### Verslag van meeting
